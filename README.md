@@ -1,3 +1,5 @@
+This Flutter application allows you to control a Bluetooth Low Energy (BLE) enabled device, like a Raspberry Pi Pico, to flash a light in Morse code. The app provides a simple interface to send alphabet characters to the device, which then translates them into light signals.
+
 ## How It Works
 
 The application performs the following steps:
